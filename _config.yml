@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "Anthony Higney"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/profilepic.jpg"
   bio    : "Economics PhD student."
   links:
     - label: "Website"
