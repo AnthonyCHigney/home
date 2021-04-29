@@ -7,13 +7,13 @@ author_profile: true
 comments: true
 ---
 
-Working Papers
+*Working Papers
 
 Higney, A., Hanley, N., Moro, M., 2021. <a href="/home/assets/images/LeadCrimeMetaAnalysis_20210429.pdf">The Lead-Crime Hypothesis: A Meta-Analysis</a>
 
 
 
-Works in Progress
+*Works in Progress
 
 The Impact of Lead Pollution on Education: a Natural Experiment in Glasgow.
 
