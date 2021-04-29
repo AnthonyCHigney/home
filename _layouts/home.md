@@ -1,11 +1,5 @@
 ---
-title: "Home"
-excerpt: 
-sitemap: false
-permalink: /home
-author_profile: true
-comments: true
-layout: home
+layout: default
 ---
 
 
