@@ -1,12 +1,20 @@
 ---
+layout: archive
+
+----
+
+*I am a PhD student in economics.
+
+*My research interests include:
+
+- Modern meta-analysis methods and publication bias detection
+- Lead pollution and its economic consequences
+- Applied econometrics
+
+<p><a href="/home/assets/images/CV_AH_2021.pdf">Curriculum Vitae</a></p>
 
 
-title: "Research"
-last_modified_at: 2021-02-09T16:20:02-05:00
-categories:
-  - 
-tags:
-  
----
+*Upcoming conference presentations:
 
+I will presenting at [EAERE 2021](http://www.eaere-conferences.org/). The paper is "[The Lead-Crime Hypothesis: A Meta-Analysis"](/home/assets/images/LeadCrimeMetaAnalysis_20210429.pdf), co-authored by Nick Hanley and Mikro Moro.
 
