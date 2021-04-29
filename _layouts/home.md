@@ -5,8 +5,9 @@ sitemap: false
 permalink: /home
 author_profile: true
 comments: true
+layout: home
 ---
----
+
 
 *I am a PhD student in economics.
 
