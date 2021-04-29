@@ -1,7 +1,6 @@
 ---
-layout: archive
 
-----
+
 
 *I am a PhD student in economics.
 
@@ -19,3 +18,4 @@ layout: archive
 I will presenting at [EAERE 2021](http://www.eaere-conferences.org/). The paper is "[The Lead-Crime Hypothesis: A Meta-Analysis"]("/home/assets/images/LeadCrimeMetaAnalysis_20210429.pdf"), co-authored by Nick Hanley and Mikro Moro.
 
 
+----
