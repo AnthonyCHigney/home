@@ -13,9 +13,5 @@
 <p><a href="/assets/images/CV_AH_2021.pdf">Curriculum Vitae</a></p>
 
 
-*Upcoming conference presentations:
-
-I will presenting at [EAERE 2021](http://www.eaere-conferences.org/). The paper is "[The Lead-Crime Hypothesis: A Meta-Analysis"]("/home/assets/images/LeadCrimeMetaAnalysis_20210429.pdf"), co-authored by Nick Hanley and Mikro Moro.
-
 
 ----
