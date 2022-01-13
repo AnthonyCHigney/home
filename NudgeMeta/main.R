@@ -21,9 +21,9 @@ df$se <- sqrt(df$variance_d)
 #set up andrews-kasy
 source("AndrewsKasyfunctions.R")
 
-lm.cluster(formula = cohens_d/se ~(1/se), cluster = df$study_id, data = df)
 
 
+#Andrews kasy estimates
 AK <- metastudies_estimation(X = df$cohens_d,
                                     sigma = df$se,
                        cutoffs =  c(-1.96,0,1.96),
@@ -36,7 +36,7 @@ AK <- metastudies_estimation(X = df$cohens_d,
 
 
 
-
+#table and graphs
 AKtable <- estimatestable(Psihat  = AK$Psihat, SE = AK$SE, cutoffs =  c(-1.96,0,1.96),symmetric = FALSE, model = "t")
 
 AKplot1 <- suppressWarnings(estimates_plot1(X= df$cohens_d, sigma = df$se, estimates = AK, 
@@ -54,10 +54,8 @@ g <- metagen(TE = df$cohens_d, seTE = df$se, studlab = df$Study_ID)
 
 tf <- meta::trimfill(g)
 
-#WAAP method only uses estimates deemed to have adequate power. Need some estimate of the" "true" effect to estimate power,
-#We use the RE estimate (FE estimate is more common but this leaves only 1 study deemed to have adequate power and results in smaller WAAP estimate)
+#WAAP method only uses estimates deemed to have adequate power. 
 
-#only get adequate power estimates
 
 #first estimate a "fixed effects" meta-analysis as normal 
 g <- metagen(TE = df$cohens_d, seTE = df$se, studlab = df$Study_ID)
@@ -82,7 +80,7 @@ print(c("Trim and Fill", round(tf$TE.random,2)))
 #=============================================================
 
 
-# Set theme to allow for plotmath expressions
+# Set theme
 tt <- ttheme_minimal(colhead=list( fg_params=list(fontface=c("bold", "plain"))))
   
   
