@@ -47,8 +47,9 @@ AKplot1 <- suppressWarnings(estimates_plot1(X= df$cohens_d, sigma = df$se, estim
 AKplot2 <- suppressWarnings(estimates_plot2(X= df$cohens_d, sigma = df$se, estimates = AK, 
                            cutoffs =  c(-1.96,0,1.96),symmetric = FALSE, model = "t"))
 
-AKplot1 <- AKplot1 + theme(axis.title.y = element_text(angle = 0, vjust = 0.5)) +   ylab("Density")
-AKplot2 <- AKplot2  + theme(axis.title.y = element_text(angle = 0, vjust = 0.5))
+AKplot1 <- AKplot1 + theme(axis.title.y = element_text(angle = 0, vjust = 0.5)) +   ylab("Density") + theme(text = element_text(size=10))
+AKplot2 <- AKplot2  + theme(axis.title.y = element_text(angle = 0, vjust = 0.5)) + theme(text = element_text(size=10))
+
 
 #trim and fill - adds in studies on left hand side of funnel
 
