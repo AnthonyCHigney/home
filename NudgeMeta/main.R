@@ -23,7 +23,9 @@ source("AndrewsKasyfunctions.R")
 
 
 
-#Andrews kasy estimates
+#Andrews kasy estimates. 
+#We do not cluster here but if you want to cluster standard errors set cluster_I = df$study_id
+
 AK <- metastudies_estimation(X = df$cohens_d,
                                     sigma = df$se,
                        cutoffs =  c(-1.96,0,1.96),
@@ -54,8 +56,8 @@ g <- metagen(TE = df$cohens_d, seTE = df$se, studlab = df$Study_ID)
 
 tf <- meta::trimfill(g)
 
-#WAAP method only uses estimates deemed to have adequate power. 
 
+#WAAP method only uses estimates deemed to have adequate power. 
 
 #first estimate a "fixed effects" meta-analysis as normal 
 g <- metagen(TE = df$cohens_d, seTE = df$se, studlab = df$Study_ID)
@@ -77,6 +79,7 @@ WAAP <- lm.cluster(formula = Standardised_T ~ Precision + 0, cluster = WAAPTRUE$
 print(c("Andrews-Kasy", round(AK$Psihat[1],2)))
 print(c("WAAP", round( WAAP$lm_res[[1]][[1]],2)))
 print(c("Trim and Fill", round(tf$TE.random,2)))
+
 #=============================================================
 
 
