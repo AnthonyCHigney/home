@@ -5,6 +5,7 @@ sitemap: false
 permalink: /Research/
 author_profile: true
 comments: true
+fontsize: 11pt
 ---
 
 <p><em>Working Papers</em></p>
