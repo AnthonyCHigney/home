@@ -82,7 +82,13 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/AnthonyCHigney/"
    
-   
+   analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-2JY3HCTSCG"
+    anonymize_ip: false # default
+    
+    
 
 defaults:
   # _posts
