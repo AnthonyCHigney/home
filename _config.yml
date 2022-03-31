@@ -85,10 +85,13 @@ footer:
    analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "G-2JY3HCTSCG"
+    tracking_id: "219519545"
     anonymize_ip: false # default
     
     
+ jekyll_metrics:
+ 
+  google_analytics_id: 219519545
 
 defaults:
   # _posts
