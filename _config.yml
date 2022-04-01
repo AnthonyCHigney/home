@@ -56,7 +56,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-  - jekyll-metrics
+
 
 author:
   name   : "Anthony Higney"
@@ -75,6 +75,7 @@ author:
     
 
 footer:
+
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -83,16 +84,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/AnthonyCHigney/"
    
-   analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "219519545"
-    anonymize_ip: false # default
-    
-    
- jekyll_metrics:
- 
-  google_analytics_id: G-2JY3HCTSCG
+
 
 defaults:
   # _posts
