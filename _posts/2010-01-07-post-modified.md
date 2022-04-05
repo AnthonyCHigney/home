@@ -12,6 +12,16 @@
 
 <p><a href="/assets/images/CV_AH_2021.pdf">Curriculum Vitae</a></p>
 
+---
+
+<strong>Upcoming Conferences</strong>
+
+EAERE 2022 in Rimini
+
+Scottish Economic Society 2022 in Glasgow
+
+SGPE Conference 2022 in Crieff
+
 
 
 ----
