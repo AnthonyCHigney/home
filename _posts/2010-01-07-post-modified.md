@@ -14,7 +14,7 @@
 
 ***
 
-<strong>Upcoming Conferences</strong>
+**Upcoming Conferences**
 
 EAERE 2022 in Rimini
 
