@@ -16,10 +16,3 @@
 
 ----
 
-<strong>Upcoming Conferences</strong>
-
-EAERE 2022 in Rimini
-
-Scottish Economic Society 2022 in Glasgow
-
-SGPE Conference 2022 in Crieff
