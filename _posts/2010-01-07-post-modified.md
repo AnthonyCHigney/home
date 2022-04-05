@@ -12,7 +12,7 @@
 
 <p><a href="/assets/images/CV_AH_2021.pdf">Curriculum Vitae</a></p>
 
----
+***
 
 <strong>Upcoming Conferences</strong>
 
