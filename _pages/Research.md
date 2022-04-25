@@ -13,7 +13,7 @@ fontsize: 11pt
 Higney, A., Hanley, N., Moro, M., 2022. <em> <a href="/home/assets/images/LeadCrimeMetaAnalysis_20220110.pdf">The Lead-Crime Hypothesis: A Meta-Analysis</a> </em>
 
 
-Higney, A., Hanley, N., Moro, M., 2022.<em> <a href="/home/assets/images/leadEducation20220129.pdf">The Impact of Lead Pollution on Human Capital Formation: Size of Dose Matters</a> </em>
+Higney, A., Hanley, N., Moro, M., Gasteen, A., 2022.<em> <a href="/home/assets/images/leadEducation20220129.pdf">The Impact of Lead Pollution on Human Capital Formation: Size of Dose Matters</a> </em>
 
 ---
 
