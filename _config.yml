@@ -72,7 +72,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/AnthonyCHigney/"
-      email            : "a.c.higney@stir.ac.uk"
+    - label: ""  
+      icon: "fab fa-fw fa-envelope"
+      email: "mailto:a.c.higney@stir.ac.uk"
       
     
 
