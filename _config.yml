@@ -62,6 +62,7 @@ author:
   name   : "Anthony Higney"
   avatar : "/assets/images/20210819_161540.jpg"
   bio    : "Economics PhD student."
+  email  :    "a.c.higney@stir.ac.uk"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -72,9 +73,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/AnthonyCHigney/"
-    - label: ""  
-      icon: "fas fa-fw fa-envelope"
-      email: "mailto:a.c.higney@stir.ac.uk"
+   
       
     
 
