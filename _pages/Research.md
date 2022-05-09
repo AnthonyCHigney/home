@@ -29,6 +29,6 @@ fontsize: 11pt
 <hr>
 
 <hr>
-<p><strong>Consultancy Work</strong></p>
+<p><em>Consultancy Work</em></p>
 
 <strong>Higney, A.</strong>, and Gibb, K., (2022). <a href="https://housingevidence.ac.uk/publications/a-cost-benefit-analysis-of-a-traditional-glasgow-tenement-net-zero-retrofit/">A cost-benefit analysis of a traditional Glasgow tenement net zero retrofit. UK Centre for Housing Evidence.</a>
