@@ -16,13 +16,14 @@
 
 **Upcoming Conferences**
 
-Ulvön Environmental Economics Conference 2022
 
 EAERE 2022 in Rimini
 
-Scottish Economic Society 2022 in Glasgow
+Economics of the Household workshop in London
 
-SGPE Conference 2022 in Crieff
+
+
+
 
 
 
