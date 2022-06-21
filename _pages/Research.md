@@ -24,7 +24,7 @@ fontsize: 11pt
 
 <strong>Higney, A.</strong>, 2022. <em>Meta-Regression and Forecasting</em>
 
-<strong>Higney, A.</strong>, 2022. <em>How School Starting Age Affects Earnings and Wealth</em>
+<strong>Higney, A.</strong>, and Moro, M., 2022. <em>How School Starting Age Affects Earnings and Wealth</em>
 
 <hr>
 
