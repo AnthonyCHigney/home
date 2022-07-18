@@ -3,10 +3,22 @@ layout: archive
 classes: wide
 header:
 
-  overlay_image: unsplash-image-1.jpg
+  overlay_image:/assets/images/headerimage.jpg
   caption: ""
 ---
 
+<!DOCTYPE html>
+<html>
+<head>
+	{% include header.html %}
+	{% include head.html %}
+</head>
+<body>
+	<div class="page-wrap">
+
+	{{content}}
+
+	</div>
 
 
 <p>I am a PhD student in economics.<p>
@@ -34,7 +46,11 @@ My research interests include:
 
 <hr>
 
-
+	<footer class="site-footer">
+		{% include footer.html %} 
+	</footer>
+</body>
+</html>
 
 
 
