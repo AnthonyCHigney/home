@@ -16,8 +16,7 @@ My research interests include:
    <li>Environmental economics</li>
    <li>Applied microeconometrics</li>
    <li>Meta-research</li>
-  <li> test7 </li>
- 
+
 
 <p><a href="/home/assets/images/CV_AH_2022.pdf">Curriculum Vitae</a></p>
   
@@ -25,7 +24,7 @@ My research interests include:
 
   
   
-<img src= "/home/assets/images/headerimage.jpg" width="600" height="300" />
+<img src= "/home/assets/images/headerimage.jpg" width="800" height="400" />
 
 
   
