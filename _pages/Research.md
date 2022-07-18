@@ -3,10 +3,8 @@ layout: archive
 title: "Research"
 
 sitemap: false
-header:
-  overlay_image: /assets/images/header.jpg
-  caption: ""
-  cta_url: ""
+header: /assets/images/profile1.jpg
+ 
   
 permalink: /Research/
 author_profile: true
