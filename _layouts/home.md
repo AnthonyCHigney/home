@@ -7,7 +7,7 @@ header:
   
 ---
 
-<img src="/.//assets/images/headerimage.jpg" width="400" height="300" />
+<img src= "/home/assets/images/headerimage.jpg" width="400" height="300" />
 
 <p>I am a PhD student in economics.<p>
 
@@ -18,7 +18,7 @@ My research interests include:
    <li>Environmental economics</li>
    <li>Applied microeconometrics</li>
    <li>Meta-research</li>
-  <li> test6 </li>
+  <li> test7 </li>
  
 
 <p><a href="/home/assets/images/CV_AH_2022.pdf">Curriculum Vitae</a></p>
