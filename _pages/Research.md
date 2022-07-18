@@ -5,7 +5,7 @@ title: "Research"
 sitemap: false
 
 header:
-  image: /assets/images/profile1.jpg
+  image: /assets/images/headerimage.jpg
   caption: ""
  
   
