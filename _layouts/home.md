@@ -3,13 +3,11 @@ layout: single
 classes: wide
 header:
   
-  image: /assets/images/headerimage.jpg
-  caption: ""
-  cta_url: ""
+
   
 ---
 
-
+<img src="/assets/images/header.jpg" width="400" height="300" />
 
 <p>I am a PhD student in economics.<p>
 
