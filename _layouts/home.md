@@ -2,9 +2,7 @@
 layout: archive
 classes: wide
 header:
- overlay_image: unsplash-image-1.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  cta_url: "https://unsplash.com"
+overlay_image: /assets/images/header.jpg
 
 ---
 
