@@ -7,7 +7,7 @@ header:
   
 ---
 
-<img src= "/home/assets/images/headerimage.jpg" width="400" height="300" />
+<img src= "/home/assets/images/headerimage.jpg"  />
 
 <p>I am a PhD student in economics.<p>
 
