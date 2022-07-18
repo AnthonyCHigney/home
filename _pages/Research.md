@@ -4,7 +4,7 @@ title: "Research"
 
 sitemap: false
 
-header:
+footer:
   overlay_image: /assets/images/headerimage.jpg
   caption: ""
  
