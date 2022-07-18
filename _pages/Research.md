@@ -6,7 +6,7 @@ sitemap: false
 
 header:
   overlay_image: home/assets/images/headerimage.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  caption: ""
  
   
 permalink: /Research/
