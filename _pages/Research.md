@@ -6,6 +6,7 @@ permalink: /Research/
 author_profile: true
 comments: true
 fontsize: 11pt
+classes: wide
 ---
 
 <p><em>Working Papers</em></p>
