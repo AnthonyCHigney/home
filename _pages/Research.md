@@ -5,8 +5,7 @@ title: "Research"
 sitemap: false
 
 header:
-  overlay_image: home/assets/images/profile1.jpg
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  overlay_image: home/assets/images/headerimage.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
  
   
