@@ -1,9 +1,11 @@
 ---
-layout: archive
+layout: single
 classes: wide
 header:
   overlay_image: /assets/images/header.jpg
-
+  caption: ""
+  cta_url: ""
+  
 ---
 
 
