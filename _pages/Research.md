@@ -2,12 +2,13 @@
 title: "Research"
 excerpt: My research"
 sitemap: false
+overlay_image: /assets/images/headerimage.jpg
 permalink: /Research/
 author_profile: true
 comments: true
 fontsize: 11pt
 classes: wide
- overlay_image: /assets/images/headerimage.jpg
+ 
 ---
 
 <p><em>Working Papers</em></p>
