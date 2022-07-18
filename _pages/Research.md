@@ -3,7 +3,7 @@ layout: single
 title: "Research"
 excerpt: My research"
 sitemap: false
-overlay_image: /assets/images/headerimage.jpg
+overlay_image: "/assets/images/profile1.jpg"
 permalink: /Research/
 author_profile: true
 comments: true
