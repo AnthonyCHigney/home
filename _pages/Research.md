@@ -3,7 +3,9 @@ layout: archive
 title: "Research"
 
 sitemap: false
-header: /assets/images/profile1.jpg
+  overlay_image: /assets/images/profile1.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
  
   
 permalink: /Research/
