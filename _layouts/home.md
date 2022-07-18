@@ -2,7 +2,8 @@
 layout: single
 classes: wide
 header:
-  overlay_image: home/assets/images/header1.jpg
+  overlay_img_path: home/assets/images/
+  overlay_image: headerimage.jpg
   caption: ""
   cta_url: ""
   
