@@ -7,9 +7,7 @@ author_profile: true
 comments: true
 fontsize: 11pt
 classes: wide
- overlay_image: unsplash-image-1.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  cta_url: "https://unsplash.com"
+ overlay_image: /assets/images/headerimage.jpg
 ---
 
 <p><em>Working Papers</em></p>
