@@ -14,14 +14,6 @@
 
 ***
 
-**Upcoming Conferences**
-
-
-EAERE 2022 in Rimini
-
-Economics of the Household workshop in London
-
-
 
 
 
