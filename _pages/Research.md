@@ -4,7 +4,10 @@ title: "Research"
 excerpt: My research"
 sitemap: false
 header:
- overlay_image: "/assets/images/profile1.jpg"
+  overlay_image: unsplash-image-1.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  cta_url: "https://unsplash.com"
+  
 permalink: /Research/
 author_profile: true
 comments: true
