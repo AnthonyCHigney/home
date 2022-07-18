@@ -2,7 +2,7 @@
 layout: archive
 classes: wide
 header:
-overlay_image: /assets/images/header.jpg
+  overlay_image: /assets/images/header.jpg
 
 ---
 
