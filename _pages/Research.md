@@ -5,7 +5,7 @@ title: "Research"
 sitemap: false
 
 header:
-  overlay_image: home/assets/images/profile1.jpg
+  image: /assets/images/profile1.jpg
   caption: ""
  
   
