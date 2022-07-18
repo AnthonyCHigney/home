@@ -1,10 +1,10 @@
 ---
-layout: single
+layout: archive
 title: "Research"
-excerpt: My research"
+
 sitemap: false
 header:
-  overlay_image: assets/images/header.jpg
+  overlay_image: /assets/images/header.jpg
   caption: ""
   cta_url: ""
   
