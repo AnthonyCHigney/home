@@ -1,22 +1,25 @@
 ---
-layout: archive
+layout: single
+classes: wide
+header:
+
 ---
 
-{{ content }}
+<p>I am a PhD student in Economics.<p>
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
-{% if paginator %}
-  {% assign posts = paginator.posts %}
-{% else %}
-  {% assign posts = site.posts %}
-{% endif %}
+<hr>
+My research interests include:
+<ul>
+   <li>Environmental economics</li>
+   <li>Applied microeconometrics</li>
+   <li>Meta-research</li>
 
-{% assign entries_layout = page.entries_layout | default: 'list' %}
-<div class="entries-{{ entries_layout }}">
-  {% for post in posts %}
-    {% include archive-single.html type=entries_layout %}
-  {% endfor %}
-</div>
 
-{% include paginator.html %}
+<p><a href="/home/assets/images/CV_AH_2022.pdf">Curriculum Vitae</a></p>
+
+<hr>
+
+
+
+<img src= "/home/assets/images/headerimage.jpg" width="800" height="400" />
