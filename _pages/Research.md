@@ -23,21 +23,21 @@ Szaszi, B., <strong>Higney, A.</strong>, Charlton, A., Gelman, A., Ziano, I., Ac
 
 <p><em>Working Papers</em></p>
 
-<strong>Higney, A.</strong>, Hanley, N., and Moro, M., 2022. <em> <a href="/home/assets/images/LeadCrimeMetaAnalysis_20220720.pdf">The Lead-Crime Hypothesis: A Meta-Analysis</a> </em>
+<strong>Higney, A.</strong>, Hanley, N., and Moro, M., 2022. <a href="/home/assets/images/LeadCrimeMetaAnalysis_20220720.pdf">The Lead-Crime Hypothesis: A Meta-Analysis</a> 
 
 
-<strong>Higney, A.</strong>, Hanley, N., Moro, M., and Gasteen, A., 2022.<em> <a href="/home/assets/images/leadEducation20220129.pdf">The Impact of Lead Pollution on Human Capital Formation: Size of Dose Matters</a> </em>
+<strong>Higney, A.</strong>, Hanley, N., Moro, M., and Gasteen, A., 2022. <a href="/home/assets/images/leadEducation20220129.pdf">The Impact of Lead Pollution on Human Capital Formation: Size of Dose Matters</a> 
 
 ---
 
 <hr>
 <p><em>Works in Progress</em></p>
 
-<strong>Higney, A.</strong>, Hanley, N., and Moro, M., 2022. <em>The Impact of Lead Water Pollution on Birth Outcomes: A Natural Experiment in Scotland</em>
+<strong>Higney, A.</strong>, Hanley, N., and Moro, M., 2022. The Impact of Lead Water Pollution on Birth Outcomes: A Natural Experiment in Scotland
 
-<strong>Higney, A.</strong>, 2022. <em>Meta-Regression and Forecasting</em>
+<strong>Higney, A.</strong>, 2022. Meta-Regression and Forecasting
 
-<strong>Higney, A.</strong>, and Moro, M., 2022. <em>How School Starting Age Affects Earnings and Wealth</em>
+<strong>Higney, A.</strong>, and Moro, M., 2022. How School Starting Age Affects Earnings and Wealth
 
 <hr>
 
