@@ -16,10 +16,14 @@ fontsize: 11pt
 classes: wide
  
 ---
+<p><em>Publications</em></p>
+
+Szaszi, B., <strong>Higney, A.</strong>, Charlton, A., Gelman, A., Ziano, I., Aczel, B., Goldstein, D.G., Yeager, D.S. and Tipton, E., 2022. <a href="https://www.pnas.org/doi/abs/10.1073/pnas.2200732119">No reason to expect large and consistent effects of nudge interventions.</a> Proceedings of the National Academy of Sciences, 119(31), p.e2200732119.
+
 
 <p><em>Working Papers</em></p>
 
-<strong>Higney, A.</strong>, Hanley, N., and Moro, M., 2022. <em> <a href="/home/assets/images/LeadCrimeMetaAnalysis_20220110.pdf">The Lead-Crime Hypothesis: A Meta-Analysis</a> </em>
+<strong>Higney, A.</strong>, Hanley, N., and Moro, M., 2022. <em> <a href="/home/assets/images/LeadCrimeMetaAnalysis_20220720.pdf">The Lead-Crime Hypothesis: A Meta-Analysis</a> </em>
 
 
 <strong>Higney, A.</strong>, Hanley, N., Moro, M., and Gasteen, A., 2022.<em> <a href="/home/assets/images/leadEducation20220129.pdf">The Impact of Lead Pollution on Human Capital Formation: Size of Dose Matters</a> </em>
