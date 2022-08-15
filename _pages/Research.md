@@ -18,7 +18,7 @@ classes: wide
 ---
 <p><em>Publications</em></p>
 
-<strong>Higney, A.</strong>, Hanley, N., and Moro, M., (<em>Forthcoming</em>). <a href="/home/assets/images/LeadCrimeMetaAnalysis_20220720.pdf">The Lead-Crime Hypothesis: A Meta-Analysis</a>.<em>Regional Science and Urban Economics</em>.
+<strong>Higney, A.</strong>, Hanley, N., and Moro, M., (<em>Forthcoming</em>). <a href="/home/assets/images/LeadCrimeMetaAnalysis_20220720.pdf">The Lead-Crime Hypothesis: A Meta-Analysis</a>. <em>Regional Science and Urban Economics</em>.
 
 Szaszi, B., <strong>Higney, A.</strong>, Charlton, A., Gelman, A., Ziano, I., Aczel, B., Goldstein, D.G., Yeager, D.S. and Tipton, E., 2022. <a href="https://www.pnas.org/doi/abs/10.1073/pnas.2200732119">No reason to expect large and consistent effects of nudge interventions.</a> <em>Proceedings of the National Academy of Sciences</em>, 119(31), p.e2200732119.
 
