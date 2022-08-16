@@ -17,7 +17,7 @@ classes: wide
  
 ---
 
-<p><em>Publications</em></p>
+<p><em><h1>Publications</h1></em></p>
 
 <strong>Higney, A.</strong>, Hanley, N., and Moro, M., (<em>Forthcoming</em>). <a href="/home/assets/images/LeadCrimeMetaAnalysis_20220720.pdf">The Lead-Crime Hypothesis: A Meta-Analysis</a>. <em>Regional Science and Urban Economics</em>.
 
@@ -25,7 +25,7 @@ Szaszi, B., <strong>Higney, A.</strong>, Charlton, A., Gelman, A., Ziano, I., Ac
 
 <hr>
 
-<p><em>Working Papers</em></p>
+<p><em><h2>Working Papers</h2></em></p>
 
 <strong>Higney, A.</strong>, Hanley, N., Moro, M., and Gasteen, A., 2022. <a href="/home/assets/images/leadEducation20220129.pdf">The Impact of Lead Pollution on Human Capital Formation: Size of Dose Matters</a> 
 
