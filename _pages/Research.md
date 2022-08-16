@@ -27,7 +27,7 @@ Szaszi, B., <strong>Higney, A.</strong>, Charlton, A., Gelman, A., Ziano, I., Ac
 
 <hr>
 
-<p><h1>hWorking Papers</h1></p>
+<p><h1>Working Papers</h1></p>
 
 <strong>Higney, A.</strong>, Hanley, N., Moro, M., and Gasteen, A., 2022. <a href="/home/assets/images/leadEducation20220129.pdf">The Impact of Lead Pollution on Human Capital Formation: Size of Dose Matters</a> 
 
