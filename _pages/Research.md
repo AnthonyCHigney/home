@@ -15,9 +15,9 @@ comments: true
 fontsize: 11pt
 classes: wide
  
----
+<hr>
 
-<p><h2>Publications</h2></p>
+<p><h1>Publications</h1></p>
 
 <strong>Higney, A.</strong>, Hanley, N., and Moro, M., (<em>Forthcoming</em>). <a href="/home/assets/images/LeadCrimeMetaAnalysis_20220720.pdf">The Lead-Crime Hypothesis: A Meta-Analysis</a>. <em>Regional Science and Urban Economics</em>.
 
@@ -25,14 +25,14 @@ Szaszi, B., <strong>Higney, A.</strong>, Charlton, A., Gelman, A., Ziano, I., Ac
 
 <hr>
 
-<p><em><h2>Working Papers</h2></em></p>
+<p><h1>hWorking Papers</h1></p>
 
 <strong>Higney, A.</strong>, Hanley, N., Moro, M., and Gasteen, A., 2022. <a href="/home/assets/images/leadEducation20220129.pdf">The Impact of Lead Pollution on Human Capital Formation: Size of Dose Matters</a> 
 
 
 
 <hr>
-<p><em><h2>Works in Progress</h2></em></p>
+<p><h1>Works in Progress</h1></p>
 
 <strong>Higney, A.</strong>, Hanley, N., and Moro, M., 2022. The Impact of Lead Water Pollution on Birth Outcomes: A Natural Experiment in Scotland
 
@@ -42,7 +42,7 @@ Szaszi, B., <strong>Higney, A.</strong>, Charlton, A., Gelman, A., Ziano, I., Ac
 
 <hr>
 
-<p><em><h2>Published Work (non-peer reviewed)</h2></em></p>
+<p><h1>Published Work (non-peer reviewed)</h1></p>
 
 <strong>Higney, A.</strong>, and Gibb, K., (2022). <a href="https://housingevidence.ac.uk/publications/a-cost-benefit-analysis-of-a-traditional-glasgow-tenement-net-zero-retrofit/">A cost-benefit analysis of a traditional Glasgow tenement net zero retrofit. UK Centre for Housing Evidence.</a>
 
