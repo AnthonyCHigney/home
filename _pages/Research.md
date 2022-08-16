@@ -17,7 +17,7 @@ classes: wide
  
 ---
 
-<p><em><h1>Publications</h1></em></p>
+<p><h2>Publications</h2></p>
 
 <strong>Higney, A.</strong>, Hanley, N., and Moro, M., (<em>Forthcoming</em>). <a href="/home/assets/images/LeadCrimeMetaAnalysis_20220720.pdf">The Lead-Crime Hypothesis: A Meta-Analysis</a>. <em>Regional Science and Urban Economics</em>.
 
