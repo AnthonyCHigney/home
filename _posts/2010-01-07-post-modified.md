@@ -10,7 +10,7 @@
 - Pollution and its economic consequences
 - Applied econometrics
 
-<p><a href="/assets/images/CV_AH_2023.pdf">Curriculum Vitae</a></p>  
+<p><a href="/assets/images/CV_AH_2023.pdf">Curriculum Vitae</a></p>    
 
 ***
 
