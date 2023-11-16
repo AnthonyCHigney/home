@@ -22,7 +22,7 @@ classes: wide
 <p><h3>Publications</h3></p>
 
 <strong>Higney, A.</strong>, Hanley, N., and Moro, M., (2022). <a href="https://www.sciencedirect.com/science/article/pii/S0166046222000667">The Lead-Crime Hypothesis: A Meta-Analysis</a>. <em>Regional Science and Urban Economics</em>. 
-<a href="/home/assets/images/Appendix_20220816.pdf">Appendix</a>, <a href="=/home/assets/images/Lead_Meta_Data14.csv">Data</a>
+<a href="/home/assets/images/Appendix_20220816.pdf">Appendix</a>, <a href="/home/assets/images/Lead_Meta_Data14.csv">Data</a>
 
 Szaszi, B., <strong>Higney, A.</strong>, Charlton, A., Gelman, A., Ziano, I., Aczel, B., Goldstein, D.G., Yeager, D.S. and Tipton, E., 2022. <a href="https://www.pnas.org/doi/abs/10.1073/pnas.2200732119">No reason to expect large and consistent effects of nudge interventions.</a> <em>Proceedings of the National Academy of Sciences</em>, 119(31), p.e2200732119.
 
