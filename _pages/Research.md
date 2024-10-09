@@ -30,6 +30,8 @@ Szaszi, B., <strong>Higney, A.</strong>, Charlton, A., Gelman, A., Ziano, I., Ac
 
 <p><h3>Working Papers</h3></p>
 
+<strong>Higney, A.</strong>, Hanley, N., and Moro, M., 2022. <a href="/home/assets/images/leadhealth_preprint09102024.pdf">The Impact of Lead Water Pollution on Birth Outcomes: A Natural Experiment in Scotland</a>. <a href="/home/assets/images/Appendix_LeadHealth_20240621.pdf">Appendix</a>
+
 <strong>Higney, A.</strong>, Hanley, N., Moro, M., and Gasteen, A., 2022. <a href="/home/assets/images/leadEducation20220129.pdf">The Impact of Lead Pollution on Human Capital Formation: Size of Dose Matters</a> 
 
 
@@ -37,13 +39,19 @@ Szaszi, B., <strong>Higney, A.</strong>, Charlton, A., Gelman, A., Ziano, I., Ac
 <hr>
 <p><h3>Works in Progress</h3></p>
 
-<strong>Higney, A.</strong>, Hanley, N., and Moro, M., 2022. The Impact of Lead Water Pollution on Birth Outcomes: A Natural Experiment in Scotland
-
 <strong>Higney, A.</strong>, 2022. Meta-Regression and Forecasting
 
 <strong>Anthony Higney</strong>, Claire Buchan, Simon Butler, Melissa Marselle,
 Eleanor Ratcliffe, Konrad Uebel, and Nick Hanley, 2024. The Effect of Birdsong on Self-reported Mental Well-Being.
 <a href="/home/assets/images/AnalysisPlan_MH_Soundscapes_2.pdf">Pre-analysis plan.</a> 
+
+<strong>Anthony Higney</strong>, Claire Buchan, Simon Butler, Melissa Marselle,
+Eleanor Ratcliffe, Konrad Uebel, and Nick Hanley, 2024. Does Hearing a Natural Soundscape Change Stated Preference Valuations: a Choice Experiment.
+
+
+<strong>Anthony Higney</strong>, Claire Buchan, Simon Butler, Melissa Marselle,
+Eleanor Ratcliffe, Konrad Uebel, and Nick Hanley, 2024. The Effect of Local Soundscapes on Anti-Depressant Prescriptions.
+
 
 <hr>
 
