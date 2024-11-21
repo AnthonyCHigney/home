@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Anthony Higney"
   avatar : "/assets/images/hatwalk.jpg"
-  bio    : "Economist"
+  bio    : "Post-doc Economist"
   email  :    "anthony.higney@glasgow.ac.uk"
   links:
     - label: "Website"
