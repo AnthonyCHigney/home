@@ -1,5 +1,5 @@
 main:
   - title: "Research"
-    url: /Research/
-   - title: "Blog"
+    url: /research/
+  - title: "Blog"
     url: /blog/
