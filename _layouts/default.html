@@ -28,16 +28,7 @@
       </div>
     {% endif %}
 
-    <div class="posts-list">
-  {% for post in site.posts %}
-    <article>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      <p>{{ post.excerpt }}</p>
-      <p><small>{{ post.date | date: "%B %d, %Y" }}</small></p>
-    </article>
-    <hr>
-  {% endfor %}
-</div>
+
 
     <div id="footer" class="page__footer">
       <footer>
