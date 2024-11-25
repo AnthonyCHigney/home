@@ -1,8 +1,8 @@
 ---
-layout: archive
+layout: home
 title: "Blog"
 
-sitemap: false
+sitemap: true
 
 footer:
   overlay_image: /assets/images/headerimage.jpg
