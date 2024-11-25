@@ -1,9 +1,8 @@
 ---
 layout: single
 title: "Research"
-classes: wide
 sitemap: true
-
+header: 
 footer:
   overlay_image: /assets/images/headerimage.jpg
   caption: ""
