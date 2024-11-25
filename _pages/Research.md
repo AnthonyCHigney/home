@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: single
 title: "Research"
-
+classes: wide
 sitemap: true
 
 footer:
