@@ -2,7 +2,7 @@
 layout: archive
 title: "Research"
 
-sitemap: false
+sitemap: true
 
 footer:
   overlay_image: /assets/images/headerimage.jpg
