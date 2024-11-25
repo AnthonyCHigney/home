@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "About Me"
-date: 2024-11-20
+title: "My First Post"
+date: 2024-11-25
 categories: blog
 ---
-This is the content of your blog post.
-
+This is the content of my first blog post.
