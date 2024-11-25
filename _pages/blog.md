@@ -3,7 +3,7 @@ layout: archive
 title: "Blog"
 
 sitemap: true
-
+category: blog
 footer:
   overlay_image: /assets/images/headerimage.jpg
   caption: ""
