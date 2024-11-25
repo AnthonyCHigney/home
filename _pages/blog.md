@@ -9,7 +9,7 @@ footer:
   caption: ""
  
   
-permalink: /Blog/
+permalink: /blog/
 author_profile: true
 comments: true
 fontsize: 11pt
