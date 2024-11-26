@@ -1,8 +1,14 @@
----
 layout: archive
 ---
 
 {{ content }}
+{% if page.tags %}
+  <p class="tags">Tags: 
+    {% for tag in page.tags %}
+      <a href="{{ site.baseurl }}/tags/{{ tag }}">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}
+    {% endfor %}
+  </p>
+{% endif %}
 
 <ul class="taxonomy__index">
   {% assign postsInYear = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
