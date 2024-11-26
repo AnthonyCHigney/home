@@ -4,6 +4,7 @@ title: "How Much Should We Trust Publication Bias Detection Techniques"
 date: 2024-11-26
 published: false
 categories: blog
+permalink: /home/blog/:title/
 tags:
   - Publication Bias
   - Meta-Analysis
