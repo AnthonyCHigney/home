@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Blog"
-permalink: /blog/
+permalink: /home/blog/:title/
 sitemap: true
 footer:
   overlay_image: /assets/images/headerimage.jpg
