@@ -95,7 +95,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: blog
+      layout: single
       author_profile: true
       read_time: true
       comments: true
