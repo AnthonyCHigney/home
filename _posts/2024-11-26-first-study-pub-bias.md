@@ -7,7 +7,7 @@ categories: blog
 tags:
   - Publication Bias
   - Meta-Analysis
-permalink: /home/blog/:title/
+
 
 ---
 
