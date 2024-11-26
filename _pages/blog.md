@@ -10,6 +10,9 @@ author_profile: true
 comments: true
 fontsize: 11pt
 classes: wide
+toc: true
+toc_label: "Contents"
+toc_icon: "cog"
 ---
 
 <hr>
