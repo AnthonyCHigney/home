@@ -7,6 +7,7 @@ categories: blog
 tags:
   - Publication Bias
   - Meta-Analysis
+permalink: /home/blog/:title/
 ---
 
 I was reading O'Rourke's [history of meta-analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC2121629/) paper and he mentions what is possibly the [first paper](https://www.jstor.org/stable/pdf/2282137.pdf?casa_token=2po0hqgzeAsAAAAA:Owjpbq5b_YSF9NqwfSxp66-C6n9NKUBDDRdlQ-82qW02It6ijJOI-gMW_6CyQnNNnQpdVJmd3Bzn9eBRyZ4mWWvbFmZAn_6WEEfS8l9TjvX787wsNAM) to systematically look at publication bias based on significance. This is Sterling's 1959 paper "Publication Decisions and Their Possible Effects on Inferences Drawn from Tests of Significance--Or Vice Versa".
