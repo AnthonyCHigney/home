@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: "The First Study to look at Publication Bias found a lot of it!"
 date: 2024-11-26
 published: true
@@ -7,7 +7,7 @@ categories: blog
 tags:
   - Publication Bias
   - Meta-Analysis
-permalink: /home/blog/:title/
+
 
 ---
 
