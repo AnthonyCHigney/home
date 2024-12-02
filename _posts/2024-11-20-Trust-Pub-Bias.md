@@ -22,9 +22,12 @@ Problems
 I^2
 
 
-Publication bias is when the distribution of observed studies is different from the distribution of all studies. Usually this is taken to mean there is some filter that selects studies based on the strengh of the efefct or the direction of the effect (positive or negative). Crucially, we do not observe all studies, so we must infer whether publication bias has occured (like the fundamental problem of causation, we do not observe the counterfactual).
+Publication bias is when the distribution of observed studies is different from the distribution of all studies. Usually this is taken to mean there is some filter that selects studies based on the strengh of the effct or the direction of the effect (positive or negative). Crucially, we do not observe all studies, so we must infer whether publication bias has occured (like the fundamental problem of causation, we do not observe the counterfactual).
 
-Publication bias has been documented since [at least 1959](https://anthonychigney.github.io/home/blog/first-study-pub-bias/). More recently, a number of techniques in meta-analysis have been used to try and estimate both whether publication bias has occured, and what the effct would have been without publication bias.
+Publication bias has been documented since [at least 1959](https://anthonychigney.github.io/home/blog/first-study-pub-bias/). More recently, a number of techniques in meta-analysis have been used to try and estimate both whether publication bias has occured, and what the effect there would have been without publication bias.
+
+
+In Cohen's D the formula to estimate the standard error included the effect size, Cohen's D, itself. In the simulation, it is no surprise to see the standard error and the effect size correlated, as they are in figure 3, because it happens by constuction.
 
 
 
