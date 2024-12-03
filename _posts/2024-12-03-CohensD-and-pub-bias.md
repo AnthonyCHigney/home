@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Cohen's D and Publication Bias Methods Don't Mix (Sometimes)"
+title: "Cohen's d and Publication Bias Methods Don't Mix (Sometimes)"
 date: 2024-12-03
 published: true
 categories: blog
