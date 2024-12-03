@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Research"
+use_math: true
 sitemap: true
 header: 
 footer:
