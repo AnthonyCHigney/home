@@ -115,7 +115,11 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-  
+
+  # Build settings
+markdown: kramdown
+
+
   # Google Analytics
 google_analytics: G-2JY3HCTSCG
   
