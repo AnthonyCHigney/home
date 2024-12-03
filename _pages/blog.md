@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: "Blog"
+use_math: true
 permalink: /blog/
 sitemap: true
 footer:
