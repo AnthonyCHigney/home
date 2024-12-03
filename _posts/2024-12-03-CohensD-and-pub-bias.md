@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: "Cohen's D and Publication Bias Methods Don't Mix (Sometimes)"
