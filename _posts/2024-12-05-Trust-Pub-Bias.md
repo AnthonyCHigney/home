@@ -57,10 +57,17 @@ The argument here is that the average psychology meta-analysis contains as littl
 
 However, if they are so incommensurable, how come the pub bias methods suggest there is publication bias in this collection of studies every time? What would we expect? Well, these are replications. The sample size of the replications are based on the size of the effect in the original studies, through power calculations. As we know, the size of the standard error is related to the sample size. So the standard error and the effect size will be correlated. This is generally how publication bias methods work: they look for a correlation between the standard error and the effect size. Therefore, these methods pick up this correlation and point to publication bias where none exists. 
 
-The authors and others have argued that this shows if effects are heterogeneous, and researchers have a good idea of the effect size ex-ante, and therefore efficiently select sample size to all have, for example, 80% power, there will be a correlation between the errors and the effects. This is true, but would mean all the studies are estimating effects that are not only known to be different, but we know *how* they are different. We can rank the effects. Should they be doing that? In general, in a (random effects) meta-analysis we assume each study is estimating a different effect and estimate the average of the effects, but the differences are assumed to be *random*, drawn from a *common* underlying distribution. 
+The authors and others have argued that this shows if effects are heterogeneous, and researchers have a good idea of the effect size ex-ante, and therefore efficiently select sample size to all have, for example, 80% power, there will be a correlation between the errors and the effects. This is true, but would mean all the studies are estimating effects that are not only known to be different, but we know *how* they are different. We can rank the effects. Should they be doing that? No. In general, in a (random effects) meta-analysis we assume each study is estimating a different effect and estimate the average of the effects, but the differences are assumed to be *random*, drawn from a *common* underlying distribution. 
 
-When the differences are not random, they are not i.i.d, nor exchangeable. We are not going to get unbiased estimates, nor will we be able to make correct inference about publication bias. In short, we cannot do a meta-analysis at all. The replication differences are driven by what is being replicated.
+When this is not the case, they are not [i.i.d](https://en.wikipedia.org/wiki/Independent_and_identically_distributed_random_variables), nor [exchangeable](https://www.uv.es/~bernardo/Exchangeability.pdf). What that means is any inference we do from this model will be off. We can estimate, for example, the mean and variance of our sample, but what is that representative off? Nothing really. 
 
+For example, suppose that we have two different kinds of effect sizes
+
+And in our sample 70% are from distribution 1 and 30% from distribution 2. We estimate the mean with random effects as X. A new replication is undertaken, our point estimate prediction is XX. It's way off, and always will be. 
+
+We are not going to get unbiased estimates, nor will we be able to make correct inference about publication bias. The replication differences are driven by what is being replicated.
+
+However, given we know why the replications differ, it is trivially easy to make them conditionally exchangeable, and our inference will be much better. We just condition on what accounts for the systematic difference in effect sizes. In fact, the authors do this:
 
 "An alternative to disabling asymmetry-based methods is to
 ensure that the meta-analytic model explicitly contemplates
@@ -72,4 +79,6 @@ funnel-plot asymmetry by simply entering the original effects
 predictor in the model. Logically, this strategy cannot be
 followed in most meta-analyses."
 
-I agree that there is no pure data-driven approach that can replace domain knowledge in a a meta-analysis, given the existence of non-sample heterogneity. 
+They included the effect size each replication was trying to replicate in a meta-regression, and this removed the correlation between the effect size and the errors. So, if you believe that you have a set of efficently powered studies, you can simply incorporate that information into your model. How? Well, you could split your sample into groups of effect sizes you believe are similar, or you could simply do a meta-regression with an appropriate moderator, like sample size. This applies whenever you have observable drivers of heterogeneity in effect sizes. If you do not model this information then your inference will likely off. 
+
+But more importantly, think about what you are trying to infer when you group effects in a meta-analysis. You probably don't want to just describe them, you want to say something about the population of such effects, about what a future draw from this effect distribution could look like. 
