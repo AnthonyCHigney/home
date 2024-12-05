@@ -5,7 +5,6 @@ use_math: true
 date: 2024-12-05
 published: false
 categories: blog
-permalink: /home/blog/:title/
 tags:
   - Publication Bias
   - Meta-Analysis
