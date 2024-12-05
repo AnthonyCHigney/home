@@ -2,6 +2,7 @@
 layout: single
 title: "The First Study to look at Publication Bias found a lot of it!"
 date: 2024-11-26
+use_math: true
 published: true
 categories: blog
 tags:
