@@ -39,7 +39,7 @@ First, the simulations. Keep in mind that generally how publication bias methods
 
 As for the empirical part, it's a similar story with an additional element. They take a bunch of replications and combine them, then test for publication bias and estimate the effect after this non-existent bias is removed. The authors are aware of a possible limitation with this. In their own words:
 
-"...[E]ach of these data sets comprises studies on
+> "...[E]ach of these data sets comprises studies on
 disparate processes, using radically different procedures and
 designs. Few meta-analysts would be interested in pooling
 such diverse effects." 
@@ -48,7 +48,7 @@ In other words, they are combining studies that are looking at completely differ
 
 This is their defence:
 
-"Yet, the heterogeneity that we found
+> "Yet, the heterogeneity that we found
 within each of those data sets ($I^2$ = 88.4%) was only slightly
 higher than the average heterogeneity observed in
 psychological meta-analyses, often hovering around 70%.
@@ -66,7 +66,7 @@ When this is not the case, they are not [i.i.d](https://en.wikipedia.org/wiki/In
 
 However, given we know why the replications differ, it is trivially easy to make them *conditionally exchangeable*, and our inference will be much better. We just condition on what accounts for the systematic difference in effect sizes. In fact, the authors do this:
 
-"An alternative to disabling asymmetry-based methods is to
+> "An alternative to disabling asymmetry-based methods is to
 ensure that the meta-analytic model explicitly contemplates
 any potential moderator that could potentially give rise to
 small-study effects for reasons unrelated to bias. In our
