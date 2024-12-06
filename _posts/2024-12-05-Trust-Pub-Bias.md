@@ -82,4 +82,4 @@ But, more importantly, think about what you are trying to do when you group effe
 
 <hr>
 
-[^1]: See [Gelman et al.(2013)](http://www.stat.columbia.edu/~gelman/book/) or [Meager (2022](https://mfr.osf.io/render?url=https://osf.io/eugrp/?direct%26mode=render%26action=download%26mode=render) for a discussion of the importance of exchangeability in hierachical models. 
+[^1]: See [Gelman et al.(2013)](http://www.stat.columbia.edu/~gelman/book/) or [Meager (2022)](https://mfr.osf.io/render?url=https://osf.io/eugrp/?direct%26mode=render%26action=download%26mode=render) for a discussion of the importance of exchangeability in hierachical models. 
