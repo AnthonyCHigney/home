@@ -11,7 +11,7 @@ tags:
   - External Validity
 ---
 
-Publication bias is when the distribution of observed effects is different from the distribution of all such effects. Usually this means there is some filter based on the magnitude or direction of the effect (positive or negative). Crucially, we do not observe all effects, so we must infer whether publication bias has occured (like the fundamental problem of causation, we do not observe the counterfactual).
+Publication bias is when the distribution of observed effects is different from the distribution of all such effects. Usually this means there is some filter based on the magnitude or direction of the effect (positive or negative). Crucially, we do not observe all effects, so we must infer whether publication bias has occured.
 
 Publication bias has been studied since [at least 1959](https://anthonychigney.github.io/home/blog/first-study-pub-bias/). More recently, a number of techniques in meta-analysis have been used to try and estimate both whether publication bias has occured, and what the average effect would have been without publication bias. These techniques need a number of assumptions to be true to work.
 
