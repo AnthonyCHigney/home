@@ -18,7 +18,7 @@ Publication bias has been studied since [at least 1959](https://anthonychigney.g
 A new working paper from Rafael Román-Caballero and Miguel A. Vadillo, ["A meta-analyst should make informed decisions: Issues with Bayesian model-averaging meta-analyses"](https://osf.io/preprints/metaarxiv/tm7dv), argues that these methods can be very unreliable, and overestimate the extent of publication bias that exists. I argue that yes, when used incorrectly, the publication bias detection methods will not work, but the methods in the paper to show this are unconvincing and the conclusions go too far.
 
 
-###Summary
+### Summary
 
 The paper's main argument is that publication bias detection methods can flag up pub bias when none exists, and they can say no effect exists when it actually does.
 
@@ -29,7 +29,7 @@ The second is where they collect several databases of pre-registered replication
 So, two different strategies, and both show publication bias detection methods can be unreliable, right? Well, I agree they can be unrelaible, but I don't agree either of the strategies in this paper show that. 
 
 
-###Problems
+### Problems
 
 First, the simulations. Keep in mind that generally how publication bias methods work is they look for a correlation between the standard error and the effect size. In all simulations, they use Cohen's $d$ as their standardised metric in all simulations. In Cohen's $d$ the formula to estimate the standard error includes the effect size, Cohen's $d$, itself. In the initial simulations, it is no surprise to see the standard error and the effect size correlated, as they are in figure 3, because it happens [by constuction](https://anthonychigney.github.io/home/blog/CohensD-and-pub-bias/). That is not the main problem though. The simulated replications in figure 3 base their sample size on the size of the original simulated effects. All replications have the same power. Replications of bigger effects need less sample size to achieve the same power. Sample size is directly related to the size of the errors. Therefore, a correlation is introduced through the simulated replication process. 
 
