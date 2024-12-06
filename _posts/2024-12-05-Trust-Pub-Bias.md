@@ -3,7 +3,7 @@ layout: single
 title: "How Much Should We Trust Publication Bias Detection Techniques?"
 use_math: true
 date: 2024-12-05
-published: false
+published: true
 categories: blog
 tags:
   - Publication Bias
