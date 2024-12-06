@@ -64,17 +64,6 @@ The authors and others have argued that this shows if effects are heterogeneous,
 
 When this is not the case, they are not [i.i.d](https://en.wikipedia.org/wiki/Independent_and_identically_distributed_random_variables), nor [exchangeable](https://www.uv.es/~bernardo/Exchangeability.pdf). What that means is any inference we do from this model will be off. This is important because when we test for publication bias we are not just describing the data, we are doing inference. We are trying to say something about the underlying population, not just the sample we have. It's important to think about why you are doing meta-analysis in the first place. More than likely, you want to say something about the underlying distribution of all such effects. For example, what's the mean and variance of that distribution? You can then use that to predict what a new effect, a new draw from the underlying distribution, would be. How good would this treatment be if we did it again? This is predictive inference. With the models we use in meta-analysis this is only really possible if you can meet at least the assumption of exchangeability. The same goes for any inference about the extent of publication bias. 
 
-
-
-
-For example, suppose that we have two different kinds of effect sizes
-
-And in our sample 70% are from distribution 1 and 30% from distribution 2. We estimate the mean with random effects as X. A new replication is undertaken, our point estimate prediction is XX. It's way off, and always will be. 
-
-We are not going to get unbiased estimates, nor will we be able to make correct inference about publication bias. The replication differences are driven by what is being replicated.
-
-
-
 However, given we know why the replications differ, it is trivially easy to make them *conditionally exchangeable*, and our inference will be much better. We just condition on what accounts for the systematic difference in effect sizes. In fact, the authors do this:
 
 "An alternative to disabling asymmetry-based methods is to
