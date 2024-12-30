@@ -21,11 +21,11 @@ The paper argues that the commonly used thresholds for significance, called \alp
 
 The arument rests
 
-\[
+$ \[
 \frac{1}{m} \sum_{i=1}^m p_i \xrightarrow{P} p_s,
-\]
+\] $
 
-where \( \xrightarrow{P} \) denotes **convergence in probability**.
+where $\( \xrightarrow{P} \)$ denotes **convergence in probability**.
 
 
 My thoughts
