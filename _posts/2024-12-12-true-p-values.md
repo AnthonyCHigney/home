@@ -17,9 +17,9 @@ I'm sure Taleb has forgotten more about probablity than I will ever know, but I 
 
 Summary
 
-The paper argues that the commonly used thresholds for significance, called \alpha, are too high and therefore over-reject the null. He argues that they over-reject because of the extreme skewness and variability of the p-value distribution. What this means is that there are too many false-positives, or type I errors, in the scientific literature. 
+The paper argues that the commonly used thresholds for significance, called \alpha, are too high and therefore over-reject the null. He argues that they over-reject because of the extreme skewness of the p-value distribution. What this means is that there are too many false-positives, or type I errors, in the scientific literature. 
 
-The arument rests
+He derives a distribution function for p-values[^1] that only depends on the median p-value and the sample size. He introduces what he calls "true" p-values which he defines as the expected value over 
 
 
 
@@ -40,3 +40,6 @@ My thoughts
 Under the null model, the test statistic has a known distribution. 
 
 A p-value is the result of evaluating the cdf for a particular test statistic under that distribution. It is 1 - F(T). Pr(T <t) is 1 - F(T).
+
+
+[^1] It is a piecewise pdf with the split at 0.5 p-value. 
