@@ -17,7 +17,7 @@ I'm sure Taleb has forgotten more about probablity than I will ever know, but I 
 
 ### Summary
 
-The paper argues that the commonly used thresholds for significance, called \alpha, are too high and therefore over-reject the null. That they over-reject because of the extreme skewness of the p-value distribution. What this means is that there are too many false-positives, or type I errors, in the scientific literature. 
+The paper argues that the commonly used thresholds for significance, called $\alpha$, are too high and therefore over-reject the null. That they over-reject because of the extreme skewness of the p-value distribution. What this means is that there are too many false-positives, or type I errors, in the scientific literature. 
 
 He derives a distribution function for p-values[^1] that only depends on the median p-value and the sample size. He introduces what he calls "true" p-values which he defines as the expected value over multiple different samples (the true p-value $\( p_s \)$ converges in probability: $\frac{1}{m} \sum_{i=1}^m p_i \xrightarrow{P} p_s$). He shows that you could have this "true" or average p-value be greater than 0.05 and yet most individual p-values would be lower than 0.05. He calls this 0.05 "true" p-value borderline, as in on the border between significant and non-significant. Yet, he says, if teh "true" p-value is bordeline, and the vast majority of indvidual tests will reject the null then the test is not calibrated correctly. There are too many "false" rejections of the null. It is easy for reasearchers to p-hack by testing multiple subsamples until they get a statistically signifcant result. 
 
