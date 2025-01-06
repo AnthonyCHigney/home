@@ -34,5 +34,5 @@ Under the null model, the test statistic has a known distribution. With a **poin
 
 
 
-[^1] It is a piecewise pdf with the split at 0.5 median p-value. 
-[^2] See [Cassella and Berger](https://pages.stat.wisc.edu/~shao/stat610/Casella_Berger_Statistical_Inference.pdf) pages 397-398.
+[^1]: It is a piecewise pdf with the split at 0.5 median p-value. 
+[^2]: See [Cassella and Berger](https://pages.stat.wisc.edu/~shao/stat610/Casella_Berger_Statistical_Inference.pdf) pages 397-398.
