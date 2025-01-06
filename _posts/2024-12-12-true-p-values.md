@@ -24,7 +24,7 @@ He derives a distribution function for p-values[^1] that only depends on the med
 
 ### My thoughts
 
-What is my issue with this example? In short, if the average p-value is 0.05 then the <ins>***null model is false***</ins> and most tests correctly reject it. When the null **model** is correct, with all the assumptions that entails, then the p-value distribution will be uniform (or stochastically greater than uniform)[^2]. So basically they have a uniform distrubtion or are left skewed, like this:
+What is my issue with this example? In short, if the average p-value is 0.05 then the <ins>**null model is false**</ins> and most tests correctly reject it. When the null **model** is correct, with all the assumptions that entails, then the p-value distribution will be uniform (or stochastically greater than uniform)[^2]. So basically they have a uniform distrubtion or are left skewed, like this:
 
 
 For a (continuos) uniform distribution of p-values the me
