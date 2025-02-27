@@ -18,16 +18,13 @@
   }
 }
 
-/* Ensure post list aligns properly with sidebar */
+
 .posts-list {
-  margin-left: $right-sidebar-width; /* Pushes content fully to the right */
-  width: calc(100% - $right-sidebar-width); /* Ensures it does not overlap sidebar */
-  max-width: 100%; /* Prevents it from exceeding screen width */
+  margin-left: $right-sidebar-width; /* Push content to the right */
+  width: calc(100% - $right-sidebar-width-narrow);
   position: relative;
   z-index: 1;
-  overflow: hidden; /* Ensures content does not spill over */
 }
-
 
 /* Archive item styles */
 .archive__item {
