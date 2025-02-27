@@ -28,16 +28,15 @@
       opacity: 1;
     }
 
- 
-&.sticky {
-  position: sticky;
-  top: 0;
-  left: 0;
-  width: $right-sidebar-width-narrow;
-  height: auto; /* Adjusts height dynamically */
-  z-index: 1000;
-  background-color: #f8f9fa;
-}
+    &.sticky {
+      overflow-y: auto;
+      /* calculate height of nav list
+         viewport height - nav height - masthead x-padding
+      */
+      height: calc(100vh - #{$nav-height} - 2em);
+    }
+  }
+
   @include breakpoint($x-large) {
     width: calc(#{$right-sidebar-width} - 1em);
   }
