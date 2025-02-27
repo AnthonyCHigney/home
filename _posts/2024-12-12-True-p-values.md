@@ -1,4 +1,3 @@
-
 ---
 layout: single
 title: "Taleb Paper on P-Hacking"
