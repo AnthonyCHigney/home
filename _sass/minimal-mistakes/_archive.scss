@@ -7,17 +7,17 @@
   margin-bottom: 2em;
 
   @include breakpoint($large) {
-    float: right;
     width: calc(100% - #{$right-sidebar-width-narrow});
-    padding-right: $right-sidebar-width-narrow;
+    margin-left: $right-sidebar-width-narrow; /* Push content away from the sidebar */
+    padding-right: 0; /* Remove right padding */
+    float: none; /* Remove float */
   }
 
   @include breakpoint($x-large) {
     width: calc(100% - #{$right-sidebar-width});
-    padding-right: $right-sidebar-width;
+    margin-left: $right-sidebar-width; /* Ensure content doesn't overlap sidebar */
   }
 }
-
 .archive__item {
   position: relative;
 
