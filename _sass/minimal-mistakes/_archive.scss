@@ -21,7 +21,7 @@
 
 .posts-list {
   margin-left: $right-sidebar-width; /* Push content to the right */
-  width: calc(100% - $right-sidebar-width-narrow);
+  width: calc(100% - $right-sidebar-width);
   position: relative;
   z-index: 1;
 }
