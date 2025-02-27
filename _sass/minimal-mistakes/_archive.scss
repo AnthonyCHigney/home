@@ -24,7 +24,6 @@
   width: calc(100% - $right-sidebar-width-narrow);
   position: relative;
  z-index: 1;
-  overflow: hidden; /* Ensures content does not spill over */
 }
 
 /* Archive item styles */
