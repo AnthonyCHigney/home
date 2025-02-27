@@ -12,6 +12,8 @@ tags:
 
 
 ---
+
+
 I'm sure Taleb has forgotten more about probablity than I will ever know, but I find I don't agree with the conclusions of his paper on p-hacking.
 
 
