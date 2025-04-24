@@ -2,6 +2,8 @@
 layout: default
 ---
 
+
+
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
   {% include page__hero.html %}
 {% elsif page.header.video.id and page.header.video.provider %}
@@ -9,48 +11,40 @@ layout: default
 {% endif %}
 
 {% if page.url != "/" and site.breadcrumbs %}
-  {% include breadcrumbs.html %}
+  {% unless paginator %}
+
+    {% include breadcrumbs.html %}
+  {% endunless %}
 {% endif %}
 
 <div id="main" role="main">
   {% include sidebar.html %}
 
-  <!-- Use the theme’s main wrappers -->
-  <div class="page__inner-wrap">
-    <div class="page__content">
+  <div class="archive">
+    {% unless page.header.overlay_color or page.header.overlay_image %}
+      <h1 id="page-title" class="page__title">{{ page.title }}</h1>
+    {% endunless %}
+    {{ content }}
+  </div>
 
-      <!-- Page title + coffee button -->
-      <div class="archive">
-        <h1 class="page__title">{{ page.title }}</h1>
-        <script
-          src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js"
-          data-name="bmc-button"
-          data-slug="anthonyhigney"
-          data-color="#800080"
-          data-text="Buy me a coffee"
-          data-outline-color="#ffffff"
-          data-font-color="#ffffff"
-          data-coffee-color="#FFDD00">
-        </script>
-      </div>
+<div class="archive">
 
-      <!-- Your posts loop, using the theme’s archive styles -->
-      <div class="archive posts-list">
-        {% for post in site.posts %}
-          <article class="archive__item">
-            <h2 class="archive__item-title">
-              <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-            </h2>
-            <div class="archive__item-content">
-              {{ post.excerpt }}
-            </div>
-            <div class="archive__item-date">
-              {{ post.date | date: "%B %-d, %Y" }}
-            </div>
-          </article>
-        {% endfor %}
-      </div>
+  <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" 
+    data-name="bmc-button" data-slug="anthonyhigney" 
+    data-color="#800080" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#ffffff" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
 
-    </div><!-- /.page__content -->
-  </div><!-- /.page__inner-wrap -->
-</div><!-- /#main -->
+    </div>
+
+  <!-- Posts List Loop -->
+  <div class="posts-list">
+    {% for post in site.posts %}
+      <article>
+        <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+        <p>{{ post.excerpt }}</p>
+        <p><small>{{ post.date | date: "%B %d, %Y" }}</small></p>
+      </article>
+      <hr>
+    {% endfor %}
+  </div>
+
+</div>
