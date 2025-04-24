@@ -30,9 +30,7 @@ search: true
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 
-# Plugins
-plugins:
-  - jekyll-paginate-v2
+
 
 # Outputting
 permalink: /:categories/:title/
@@ -59,13 +57,12 @@ include:
 
 # Plugins (previously gems:)
 plugins:
-  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-
+  - jekyll-paginate-v2
 
 author:
   name   : "Anthony Higney"
