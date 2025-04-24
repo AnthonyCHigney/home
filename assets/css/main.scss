@@ -7,3 +7,23 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+
+
+// ──────────────────────────────────────────────────────────────────────────────
+// Mobile fix: force posts‐list under the sidebar and stop horizontal overflow
+// ──────────────────────────────────────────────────────────────────────────────
+
+@media (max-width: 767px) {
+  .archive .posts-list {
+    clear: both;          // drop below the floated sidebar
+    margin: 0 1rem;       // add some horizontal breathing room
+    width: auto;          // don’t force a too-wide container
+    overflow-x: hidden;   // hide any stragglers
+  }
+
+  .archive .posts-list article {
+    display: block;       // full-width blocks for each post
+    width: 100%;
+  }
+}
