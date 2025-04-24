@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: archive
 title: "Blog"
 use_math: true
 permalink: /blog/
