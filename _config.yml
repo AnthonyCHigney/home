@@ -62,7 +62,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-  - jekyll-paginate-v2
+   - jekyll-paginate
 
 author:
   name   : "Anthony Higney"
