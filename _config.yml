@@ -24,19 +24,13 @@ github_username: AnthonyCHigney
 minimal_mistakes_skin: default
 search: true
 
-
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-
-
-
 # Outputting
 permalink: /:categories/:title/
-paginate: 6                  # posts per page
-paginate_path: "/blog/page/:num/"  # note the slash before :num
-
-
+paginate: 5 # amount of posts to show
+paginate_path: "/blog/page:num/"
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
@@ -56,12 +50,13 @@ include:
 
 # Plugins (previously gems:)
 plugins:
+  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-   - jekyll-paginate
+
 
 author:
   name   : "Anthony Higney"
@@ -121,6 +116,8 @@ tag_archive:
   type: liquid
   path: /tags/
 
+  # Build settings
+markdown: kramdown
 
 
   # Google Analytics
