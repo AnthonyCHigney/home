@@ -24,7 +24,6 @@ github_username: AnthonyCHigney
 minimal_mistakes_skin: default
 search: true
 
-# Build settings
 
 # Build settings
 markdown: kramdown
@@ -122,8 +121,6 @@ tag_archive:
   type: liquid
   path: /tags/
 
-  # Build settings
-markdown: kramdown
 
 
   # Google Analytics
