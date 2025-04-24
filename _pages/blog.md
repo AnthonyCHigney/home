@@ -11,8 +11,8 @@ author_profile: true
 comments: true
 fontsize: 11pt
 classes: wide
-paginate: 6        # ← number of posts per page
-paginate_path: "/blog/page/:num/"  # optional
+paginate: 6
+paginate_path: "/blog/page/:num/"
 
 ---
 
