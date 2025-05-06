@@ -15,18 +15,25 @@ A single paper estimates an effect of some treatment. This might be a precise, u
 
 2. Limits of Single‑Topic Experiments[Clifford & Rainey 2025](https://doi.org/10.1017/pan.2024.20).
 
-### Summary
+### First Paper Summary
 
-The first paper is effectitively a study with a large number of treatment arms. 
+The first paper is effectively a study with a large number of treatment arms. Their choice of treatment in all arms is partisan cue. Partisan cue is where a policy is tied to a poltical party, and people are asked about support for that policy, and each arm has a different policy (or *topic*)  Now this is the interesting part, They use partisan cue because it is noted as having high variation in the treatment effect estimates. They can therefore investigate **why** treatment effects differ. But the reason it's particularly interesting, is how they do this. 
 
+What they say is that an individual study of partisan cue might not give much information on what a new estimate of partisan cue is. Now a meta-analysis of partisan cue studies could give the average of the treatment effects, but maybe it has publication bias (researchers may choose particular policies they know will have more of a partisan cue effect e.g.), or the studies are too different to be comparable, so this is a biased estimate of the average of the treatment effect population. They therefore propose an alternative to standard meta-analysis for this: random topic selection. 
 
+A topic here is the policy or message being used in the partisan cue experiment, such as support for foreign aid or drug legalisation. In principle though, any characteristic of a population of treatments could be used. Why is this interesting? In principle, **random sampling of treatment effects to investigate** could give an unbiased estimate of the average of the population of such treatments. If you have different sub-groups of treatments (e.g. in their paper economic vs social issues) you can investigate why effects different and get conditional averages. 
 
-They propose an alternative to standard meta-analysis: topic selection. 
+Now, I'll get into the issues with this later but here's what they find:
 
+![Figure 1 from Clifford, Leeper & Rainey 2024. Quote: "Figure shows the estimates of the treatment effects for each policy. The policy stems are separated into the three policy categories and ordered within each category from the largest estimate (top) to the smallest estimate (bottom). The color indicates the percent aware of the parties’ positions on the issues. Green points and lines indicate high awareness and orange points and lines indicate low awareness. While partisan cues have generally positive effects, the magnitude of the effect varies substantially across issues". I would also say economics issues tend to have larger partisan cue effects than social issues.](/home/assets/blogassets/topics.PNG)
 
-Criticism
+Basically, there is a lot of variation in partisan cue effects by topic, but most treatment effects are positive. Economic partisan cue effects tend to be larger than social issues (the hypothesis being these are more difficult issues to form an opinion on so the "partisan cue" provides more of a signalling effect). They also find that topics people know more about have less of a partisan cue effect. 
 
-Unfortunately, topic is only one variable that may differ between single studies. Other things like data cleaning, researcher effects etc. Is a mutli-topic study really better than a meta-analysis?
+Criticis
+
+Now I do find this interesting, but, of course, there are issues. Firstly, how does one determine the population of treatment effects to be sampled from, and therefore the sampling frame? The authors use a database of previoulsy studied questions but then how is that so different from doing a meta-analysis of those previous studies? One answer is that it is the same authors in the same setting doing each topic
+
+Unfortunately, topic is only one variable that may differ between single studies. Other things like data cleaning, researcher effects etc. Is a multi-topic study really better than a meta-analysis?
 
 Difficulty of inevnting a "Topic population" authors acknowledge.
 
