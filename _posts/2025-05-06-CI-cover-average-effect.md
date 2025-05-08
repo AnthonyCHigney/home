@@ -2,8 +2,8 @@
 layout: single
 title: "Does your study's confidence interval cover the average effect?"
 use_math: true
-date: 2025-05-06
-published: false
+date: 2025-05-08
+published: true
 categories: blog
 tags:
   - External Validity
