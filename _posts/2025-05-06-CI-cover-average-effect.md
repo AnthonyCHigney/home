@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Does your study's confidence interval cover the average effect?"
+title: "Does your study's confidence interval cover the average of the effect sizes?"
 use_math: true
 date: 2025-05-08
 published: true
