@@ -32,7 +32,7 @@ Szaszi, B., <strong>Higney, A.</strong>, Charlton, A., Gelman, A., Ziano, I., Ac
 
 <strong>Higney, A.</strong>, Hanley, N., and Moro, M., 2025. <a href="/home/assets/images/leadhealth_20250515.pdf">The Impact of Lead Water Pollution on Birth Outcomes: A Natural Experiment in Scotland</a>. <a href="/home/assets/images/Appendix_LeadHealth_20250415.pdf">Appendix</a>
 
-<strong>Higney, A.</strong>, Hanley, N., Moro, M., and Gasteen, A., 2022. <a href="/home/assets/images/leadEducation20220129.pdf">The Impact of Lead Pollution on Human Capital Formation: Size of Dose Matters</a> 
+<strong>Higney, A.</strong>, Hanley, N., Moro, M., and Gasteen, A., 2022. <a href="leadEducation20220220.pdf">The Impact of Lead Pollution on Human Capital Formation: Size of Dose Matters</a> 
 
 <strong>Anthony Higney</strong>, Claire Buchan, Simon Butler, Liam Crowther, Melissa Marselle,
 Eleanor Ratcliffe, Konrad Uebel, and Nick Hanley, 2025.<a href="/home/assets/images/MH_Soundscapes_2_Draft_2025_0421.pdf"> The Effect of Birdsong on Self-reported Mental Health.</a>
