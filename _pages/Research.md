@@ -30,7 +30,7 @@ Szaszi, B., <strong>Higney, A.</strong>, Charlton, A., Gelman, A., Ziano, I., Ac
 
 <p><h3>Working Papers</h3></p>
 
-<strong>Higney, A.</strong>, Hanley, N., and Moro, M., 2024. <a href="/home/assets/images/leadhealth_preprint09102024.pdf">The Impact of Lead Water Pollution on Birth Outcomes: A Natural Experiment in Scotland</a>. <a href="/home/assets/images/Appendix_LeadHealth_20240621.pdf">Appendix</a>
+<strong>Higney, A.</strong>, Hanley, N., and Moro, M., 2024. <a href="/home/assets/images/leadhealth_20250515.pdf">The Impact of Lead Water Pollution on Birth Outcomes: A Natural Experiment in Scotland</a>. <a href="/home/assets/images/Appendix_LeadHealth_20250415.pdf">Appendix</a>
 
 <strong>Higney, A.</strong>, Hanley, N., Moro, M., and Gasteen, A., 2022. <a href="/home/assets/images/leadEducation20220129.pdf">The Impact of Lead Pollution on Human Capital Formation: Size of Dose Matters</a> 
 
