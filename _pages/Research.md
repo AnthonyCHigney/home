@@ -24,7 +24,7 @@ classes: wide
 <strong>Higney, A.</strong>, Hanley, N., and Moro, M., (2022). <a href="https://www.sciencedirect.com/science/article/pii/S0166046222000667">The Lead-Crime Hypothesis: A Meta-Analysis</a>. <em>Regional Science and Urban Economics</em>. 
 <a href="/home/assets/images/Appendix_20220816.pdf">Appendix</a>, <a href="/home/assets/images/Lead_Meta_Data14.csv">Data</a>
 
-Szaszi, B., <strong>Higney, A.</strong>, Charlton, A., Gelman, A., Ziano, I., Aczel, B., Goldstein, D.G., Yeager, D.S. and Tipton, E., 2022. <a href="https://www.pnas.org/doi/abs/10.1073/pnas.2200732119">No reason to expect large and consistent effects of nudge interventions.</a> <em>Proceedings of the National Academy of Sciences</em>, 119(31), p.e2200732119.
+Szaszi, B., <strong>Higney, A.</strong>, Charlton, A., Gelman, A., Ziano, I., Aczel, B., Goldstein, D.G., Yeager, D.S. and Tipton, E., 2022. <a href="https://www.pnas.org/doi/abs/10.1073/pnas.2200732119">No reason to expect large and consistent effects of nudge interventions.</a> <em>PNAS</em>, 119(31), p.e2200732119.
 
 <strong>Higney, A.</strong>, Hanley, N., and Moro, M., 2025. <a href="https://link.springer.com/article/10.1007/s10640-025-01041-6">The Impact of Lead Water Pollution on Birth Outcomes: A Natural Experiment in Scotland</a>. <em>Environmental and Resource Economics<m>. <a href="https://static-content.springer.com/esm/art%3A10.1007%2Fs10640-025-01041-6/MediaObjects/10640_2025_1041_MOESM1_ESM.docx">Appendix</a>
 <hr>
