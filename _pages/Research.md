@@ -51,7 +51,7 @@ Eleanor Ratcliffe, Konrad Uebel, and Nick Hanley, 2025. <a href="https://papers.
 
 <p><h3>Works in Progress</h3></p>
 
-<strong>Higney, A.</strong>, Nick Hanley, Katherine Simpson, 2026. Willingness to pay to manage the risks of historic coastal landfills.
+<strong>Higney, A.</strong>, Hanley, N., Simpson, K., 2026. Willingness to pay to manage the risks of historic coastal landfills.
 
 <strong>Higney, A.</strong>, 2024. What is Estimated in a Meta-Regression?
 
