@@ -52,7 +52,7 @@ Eleanor Ratcliffe, Konrad Uebel, and Nick Hanley, 2025. Willingness to Pay for B
 
 <strong>Higney, A.</strong>, Nick Hanley, Katherine Simpson, 2026. Willingness to pay to manage the risks of historic coastal landfills.
 
-<strong>Higney, A.</strong>,2024. What is Estimated in a Meta-Regression?
+<strong>Higney, A.</strong>, 2024. What is Estimated in a Meta-Regression?
 
 <strong>Higney, A.</strong>, 2022. Meta-Regression and Forecasting
 
