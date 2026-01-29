@@ -28,9 +28,9 @@ Szaszi, B., <strong>Higney, A.</strong>, Charlton, A., Gelman, A., Ziano, I., Ac
 
 <strong>Higney, A.</strong>, Hanley, N., and Moro, M., 2025. <a href="https://link.springer.com/article/10.1007/s10640-025-01041-6">The Impact of Lead Water Pollution on Birth Outcomes: A Natural Experiment in Scotland</a>. <em>Environmental and Resource Economics<m>. <a href="https://static-content.springer.com/esm/art%3A10.1007%2Fs10640-025-01041-6/MediaObjects/10640_2025_1041_MOESM1_ESM.docx">Appendix</a>
 
-Uebel, K., Ratcliffe, E., Buchan, C., Butler, S. J., Hanley, N.,  <strong>Higney, A.</strong>, and Marselle, M. (2025).<a href= "https://www.sciencedirect.com/science/article/abs/pii/S027249442500218X">Natural soundscapes are associated with mental well-being via capacity-building and capacity-restoring pathways</a>. Journal of Environmental Psychology, 106, 102735.
+Uebel, K., Ratcliffe, E., Buchan, C., Butler, S. J., Hanley, N.,  <strong>Higney, A.</strong>, and Marselle, M. (2025).<a href= "https://www.sciencedirect.com/science/article/abs/pii/S027249442500218X">Natural soundscapes are associated with mental well-being via capacity-building and capacity-restoring pathways</a>. <em>Journal of Environmental Psychology</em>, 106, 102735.
 
-Luo, H.,  <strong>Higney, A.</strong>, Ye, Y., Zhao, J., and Hanley, N. (2026). <a href="https://www.sciencedirect.com/science/article/pii/S0921800925003933?casa_token=gatp186lAh4AAAAA:6vxwD2ZXIZ_TZlTnrOJ9a98xzMeYfgyLO6LmdyISmjvEvmxGTyKTDiZNwNHzIGfvM6FHngz_Hg">Impacts of conservation easements on perceived land tenure security</a>. Ecological Economics, 242, 108910.
+Luo, H.,  <strong>Higney, A.</strong>, Ye, Y., Zhao, J., and Hanley, N. (2026). <a href="https://www.sciencedirect.com/science/article/pii/S0921800925003933?casa_token=gatp186lAh4AAAAA:6vxwD2ZXIZ_TZlTnrOJ9a98xzMeYfgyLO6LmdyISmjvEvmxGTyKTDiZNwNHzIGfvM6FHngz_Hg">Impacts of conservation easements on perceived land tenure security</a>. <em>Ecological Economics</em>, 242, 108910.
 
 
 <hr style="border:2px solid gray">
