@@ -26,10 +26,9 @@ classes: wide
 
 Szaszi, B., <strong>Higney, A.</strong>, Charlton, A., Gelman, A., Ziano, I., Aczel, B., Goldstein, D.G., Yeager, D.S. and Tipton, E., 2022. <a href="https://www.pnas.org/doi/abs/10.1073/pnas.2200732119">No reason to expect large and consistent effects of nudge interventions.</a> <em>PNAS</em>, 119(31), p.e2200732119.
 
-<strong>Higney, A.</strong>, Hanley, N., and Moro, M., 2025. <a href="https://link.springer.com/article/10.1007/s10640-025-01041-6">The Impact of Lead Water Pollution on Birth Outcomes: A Natural Experiment in Scotland</a>. <em>Environmental and Resource Economics<m>. <a href="https://static-content.springer.com/esm/art%3A10.1007%2Fs10640-025-01041-6/MediaObjects/10640_2025_1041_MOESM1_ESM.docx">Appendix</a>
+<strong>Higney, A.</strong>, Hanley, N., and Moro, M., 2025. <a href="https://link.springer.com/article/10.1007/s10640-025-01041-6">The Impact of Lead Water Pollution on Birth Outcomes: A Natural Experiment in Scotland</a>. <em>Environmental and Resource Economics</em>. <a href="https://static-content.springer.com/esm/art%3A10.1007%2Fs10640-025-01041-6/MediaObjects/10640_2025_1041_MOESM1_ESM.docx">Appendix</a>
 
-<strong>Anthony Higney</strong>, Charlotte Gerling, Claire Buchan, Simon Butler, Liam Crowther, Melissa Marselle,
-Eleanor Ratcliffe, Konrad Uebel, and Nick Hanley, 2025. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5889041">Willingness to Pay for Birdsong</a>. <em>Ecological Economics</em>, 250, 109125. 
+<strong>Higney, A.</strong>, Gerling, C., Buchan, C., Butler, S., Crowther, L., Marselle, M., Ratcliffe, E., Uebel, K., and Hanley, N., 2025. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5889041">Willingness to Pay for Birdsong</a>. <em>Ecological Economics</em>, 250, 109125. <a href="https://ars.els-cdn.com/content/image/1-s2.0-S0921800926002107-mmc1.doc">Appendix</a>
 
 Luo, H.,  <strong>Higney, A.</strong>, Ye, Y., Zhao, J., and Hanley, N. (2026). <a href="https://www.sciencedirect.com/science/article/pii/S0921800925003933?casa_token=gatp186lAh4AAAAA:6vxwD2ZXIZ_TZlTnrOJ9a98xzMeYfgyLO6LmdyISmjvEvmxGTyKTDiZNwNHzIGfvM6FHngz_Hg">Impacts of conservation easements on perceived land tenure security</a>. <em>Ecological Economics</em>, 242, 108910.
 
