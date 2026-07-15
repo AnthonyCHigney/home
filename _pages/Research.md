@@ -29,7 +29,7 @@ Szaszi, B., <strong>Higney, A.</strong>, Charlton, A., Gelman, A., Ziano, I., Ac
 <strong>Higney, A.</strong>, Hanley, N., and Moro, M., 2025. <a href="https://link.springer.com/article/10.1007/s10640-025-01041-6">The Impact of Lead Water Pollution on Birth Outcomes: A Natural Experiment in Scotland</a>. <em>Environmental and Resource Economics<m>. <a href="https://static-content.springer.com/esm/art%3A10.1007%2Fs10640-025-01041-6/MediaObjects/10640_2025_1041_MOESM1_ESM.docx">Appendix</a>
 
 <strong>Anthony Higney</strong>, Charlotte Gerling, Claire Buchan, Simon Butler, Liam Crowther, Melissa Marselle,
-Eleanor Ratcliffe, Konrad Uebel, and Nick Hanley, 2025. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5889041">Willingness to Pay for Birdsong</a>. <em>Ecological Economics</em>, 250, 109125.
+Eleanor Ratcliffe, Konrad Uebel, and Nick Hanley, 2025. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5889041">Willingness to Pay for Birdsong</a>. <em>Ecological Economics</em>, 250, 109125. 
 
 Luo, H.,  <strong>Higney, A.</strong>, Ye, Y., Zhao, J., and Hanley, N. (2026). <a href="https://www.sciencedirect.com/science/article/pii/S0921800925003933?casa_token=gatp186lAh4AAAAA:6vxwD2ZXIZ_TZlTnrOJ9a98xzMeYfgyLO6LmdyISmjvEvmxGTyKTDiZNwNHzIGfvM6FHngz_Hg">Impacts of conservation easements on perceived land tenure security</a>. <em>Ecological Economics</em>, 242, 108910.
 
